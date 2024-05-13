@@ -11,7 +11,7 @@ Habilidades: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-t
 - ⚡ Dato curioso: Super fan of geek culture 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Julianrodn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/julianrodriguez-n//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Julianrodn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/julianrodriguez-n//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianrodn)](https://github.com/anuraghazra/github-readme-stats)
 
