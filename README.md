@@ -15,7 +15,5 @@ Habilidades: ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julianrodn)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Julianrodn&show_icons=true)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Julianrodn)  
 
