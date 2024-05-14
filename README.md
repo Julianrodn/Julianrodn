@@ -1,4 +1,4 @@
-### Hola 👋, my name is Julián
+### Hello 👋, my name is Julián
 #### Full-stack web developer
 ![Full-stack web developer](https://cdn.pixabay.com/photo/2015/11/10/08/31/banner-1036483_960_720.jpg)
 
