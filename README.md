@@ -17,7 +17,7 @@ developer = {
   name:       "Julián Rodríguez",
   location:   "Colombia 🇨🇴",
   role:       "Full-Stack Developer",
-  experience: "2+ years",
+  experience: "4+ years",
   stack:      ["Ruby on Rails", "PostgreSQL", "Docker", "Tailwind CSS"],
   background: "Electronic Engineer",
   practices:  ["TDD", "Clean Code", "Scalable Architecture"],
